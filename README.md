@@ -1,6 +1,6 @@
 ## Hi there... I'm Azmat Alli Khan 👋
 # 💫 About Me:
-🫂I'm looking to collaborate on Full-Stack Web Developer.<br>🎄I'm currently learning REACT.JS & NODE.JS.<br>
+🫂I'm looking to collaborate on Full-Stack Web Developer.<br>🎄I'm currently learning REACT.JS & SPRING-BOOT.<br>
 
 
 # 💻 Tech Stack:
